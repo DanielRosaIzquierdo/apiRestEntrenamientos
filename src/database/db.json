@@ -1,0 +1,128 @@
+{
+  "entrenamientos": [
+    {
+      "id": "5a3d9bbb-609c-49a7-b004-66306ad4cb51",
+      "nombre": "Peso Muerto y Flexiones",
+      "modo": "AMRAP 10",
+      "equipamiento": [
+        "barra"
+      ],
+      "ejercicios": [
+        "15 pesos muertos",
+        "15 flexiones con liberación de manos"
+      ],
+      "fechaCreacion": "25/01/2022, 13:15:44",
+      "fechaActualizacion": "10/03/2022, 08:21:56",
+      "consejosDelEntrenador": [
+        "Los pesos muertos deben ser ligeros y rápidos",
+        "Apunta a hacer series sin pausas",
+        "Pesos RX: 61kg/43kg"
+      ]
+    },
+    {
+      "id": "d8be2372-7b69-4ea5-a1f7-03f8bc5eede8",
+      "nombre": "DT Pesado",
+      "modo": "5 Rondas Por Tiempo",
+      "equipamiento": [
+        "barra",
+        "cuerda"
+      ],
+      "ejercicios": [
+        "12 pesos muertos",
+        "9 cleans colgados",
+        "6 push jerks"
+      ],
+      "fechaCreacion": "20/11/2021, 17:39:07",
+      "fechaActualizacion": "22/04/2022, 17:49:18",
+      "consejosDelEntrenador": [
+        "Apunta a hacer los push jerks sin pausa",
+        "Las primeras tres rondas serán duras, pero resiste",
+        "Pesos RX: 93kg/66kg"
+      ]
+    },
+    {
+      "id": "a24d2628-02d1-4782-9388-8de1353e54c8",
+      "nombre": "Desafío Central",
+      "modo": "AMRAP 20",
+      "equipamiento": [
+        "rack",
+        "barra",
+        "abmat"
+      ],
+      "ejercicios": [
+        "15 pies a la barra",
+        "10 thrusters",
+        "30 abdominales con abmat"
+      ],
+      "fechaCreacion": "22/04/2022, 17:50:17",
+      "fechaActualizacion": "22/04/2022, 17:50:17",
+      "consejosDelEntrenador": [
+        "Divide tus pies a la barra en máximo dos series",
+        "Haz los thrusters sin descanso",
+        "Usa los abdominales para recuperar el aliento"
+      ]
+    },
+    {
+      "id": "8f8318f9-b879-4f9d-bb88-88010193564b",
+      "nombre": "Saltos Complicados",
+      "modo": "AMRAP 12",
+      "equipamiento": [
+        "cuerda de saltar"
+      ],
+      "ejercicios": [
+        "10 burpees",
+        "25 saltos dobles con cuerda"
+      ],
+      "fechaCreacion": "25/04/2022, 14:45:28",
+      "fechaActualizacion": "25/04/2022, 14:45:28",
+      "consejosDelEntrenador": [
+        "Haz 50 saltos simples si los dobles son demasiado difíciles"
+      ]
+    },
+    {
+      "id": "0a5948bf-5295-4267-8c5b-818889658f0c",
+      "nombre": "Burpees y Metros",
+      "modo": "3 Rondas Por Tiempo",
+      "equipamiento": [
+        "Remo"
+      ],
+      "ejercicios": [
+        "Remo 500 metros",
+        "21 burpees",
+        "Corre 400 metros",
+        "Descansa 3 minutos"
+      ],
+      "fechaCreacion": "25/04/2022, 14:48:53",
+      "fechaActualizacion": "25/04/2022, 14:48:53",
+      "consejosDelEntrenador": [
+        "Da lo mejor de ti",
+        "Registra tu tiempo después de la primera carrera",
+        "Mantén tu ritmo"
+      ]
+    },
+    {
+      "nombre": "Tommy VII",
+      "modo": "Por Tiempo",
+      "equipamiento": [
+        "barra",
+        "cuerda"
+      ],
+      "ejercicios": [
+        "21 thrusters",
+        "12 subidas de cuerda, 4.5 m",
+        "15 thrusters",
+        "9 subidas de cuerda, 4.5 m",
+        "9 thrusters",
+        "6 subidas de cuerda, 4.5 m"
+      ],
+      "consejosDelEntrenador": [
+        "Divide los 21 thrusters según sea necesario",
+        "Intenta hacer los 9 y 6 thrusters sin descanso",
+        "Pesos RX: 52kg/34kg"
+      ],
+      "id": "2f09cb59-7c80-442b-b0ba-30fb8000207d",
+      "fechaCreacion": "12/2/2024, 8:57:25 AM",
+      "fechaActualizacion": "12/2/2024, 8:57:25 AM"
+    }
+  ]
+}
