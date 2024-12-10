@@ -57,6 +57,7 @@ const getOneWorkout = (id) => {
     } catch (error) {
         throw { status: 500, message: error?.message || error }
     }
+    
 
 }
 
